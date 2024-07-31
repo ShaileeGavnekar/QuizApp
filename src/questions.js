@@ -1,4 +1,4 @@
-// questions.js
+
 export const questions = [
    {
     numb: 1,
@@ -41,5 +41,5 @@ export const questions = [
     answer: "C. hover",
     options: ["A. start", "B. stop", "C. hover", "D. play"],
   },
-  // Add more questions as needed
+  
 ];
