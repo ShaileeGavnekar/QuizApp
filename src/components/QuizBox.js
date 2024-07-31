@@ -1,4 +1,3 @@
-// QuizBox.js
 import React, { useState } from 'react';
 
 function QuizBox({ questions, userScore, setUserScore, onShowResult }) {
